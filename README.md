@@ -6,7 +6,7 @@ API REST simples para gerenciar tarefas
  
 ## Como rodar
 ```bash
-npm i 
+npm init -y
 ```
  
 ### Iniciar o servidor
